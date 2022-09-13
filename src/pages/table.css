@@ -1,0 +1,41 @@
+.flex.flex-col{
+    width: 91%;
+    display: block;
+    margin: auto;
+}
+
+thead.bg-blue{ 
+    background-color: #0F4A7B;
+    color: white;
+}
+
+.App {
+    text-align: center;
+    background-color: #e5e5e5;
+}
+table{
+    border-collapse: separate;
+    border-spacing: 0 0.4em;
+   
+}
+.newJob-txt {
+
+    width: 148px;
+    text-align: center;
+    /* display: block; */
+    margin: auto;
+    padding: 7px 24px;
+}
+
+.newJob-cont {
+    
+        position: absolute;
+        left: 85%;
+    
+}
+
+.table-link:hover{
+    background-color: #EA5566;
+    color: white;
+    height: 10px !important;
+}
